@@ -17,13 +17,13 @@ button {
 }
 
 button:hover {
-  background-color: rgb(222, 72, 22);
+  background-color: rgb(113, 133, 0);
   color: #fff;
   cursor: pointer;
 }
 
 .input-area {
-  background-color: rgb(233, 176, 126);
+  background-color: rgb(201, 225, 140);
   width: 400px;
   height: 30px;
   padding: 8px;
@@ -32,7 +32,7 @@ button:hover {
 }
 
 .incomplete-area {
-  border: 2px solid rgb(239, 154, 79);
+  border: 2px solid rgb(167, 189, 23);
   width: 400px;
   min-height: 200px;
   padding: 8px;
@@ -41,13 +41,13 @@ button:hover {
 }
 
 .complete-area {
-  border: 2px solid rgb(239, 154, 79);
+  border: 2px solid rgb(167, 189, 23);
   width: 400px;
   min-height: 200px;
   padding: 8px;
   margin: 8px;
   border-radius: 8px;
-  background-color: rgb(241, 168, 103);
+  background-color: rgb(157, 220, 10);
 }
 
 .title {
